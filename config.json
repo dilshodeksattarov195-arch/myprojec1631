@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterppdate",
+        "uuid": 6535417,
+        "checksum": "6bn8w"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
